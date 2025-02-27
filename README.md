@@ -11,9 +11,9 @@ The purpose of this package is to calculate elastic constant in silicon-like mat
 ## contents
 The package contains two scripts:
 
-sw.py: main script to calculate the strain and coordinate derivative for the Stillinger-Weber potential. The differencial of the potential energy is explicitly written down in the script.
+sw.py: main script to calculate the strain and coordinate derivative for the Stillinger-Weber potential. The derivative of the potential energy is explicitly written down in the script.
 
-sw_deriv.py: a script to calculate the strain and coordinate derivative for the Stillinger-Weber potential. The differencial of the potential energy is calculated by using autograd module in pytorch. Very heavy and slow.
+sw_deriv.py: a script to calculate the strain and coordinate derivative for the Stillinger-Weber potential. The derivative of the potential energy is calculated by using autograd module in pytorch. Very heavy and slow.
 
 ## Usage
 
