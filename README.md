@@ -21,6 +21,7 @@ Please see the example in `aSi-sample` directory.
 
 
 
-This package is used to evaluate the elastic constants in the following paper:
+This package is used to evaluate the elastic constants in the following paper:  
+
 (1) https://arxiv.org/abs/2407.17707
 
